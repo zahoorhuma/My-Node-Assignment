@@ -1,0 +1,13 @@
+{
+  "name": "assignment1",
+  "version": "1.0.0",
+  "description": "Create a Web server and display file on it",
+  "main": "assign1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "nodemon assign1.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {}
+}
